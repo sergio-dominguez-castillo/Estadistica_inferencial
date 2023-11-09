@@ -20,6 +20,8 @@ de significancia diferentes pero inferiores a 0,1, para confirmar o rechazar las
 siguientes hipótesis considerando las alternativas. Crea para ello una fórmula
 que reciba los parámetros adecuados y responda "con nivel de confianza del
 ...%, se acepta la hipótesis nula/alternativa".
+![image](https://github.com/sergio-dominguez-castillo/Estadistica_inferencial/assets/106454553/845275fc-4085-4c5f-bd9d-e59e358a5d1e)
+
 
 b. Calcula la media poblacional para cada variable. ¿Son correctos los
 resultados obtenidos por tus pruebas?
